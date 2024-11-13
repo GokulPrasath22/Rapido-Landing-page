@@ -1,0 +1,71 @@
+.pht{
+    margin-top: 10px;
+    margin-left: 90px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+nav{
+    width: 1300px;
+    height: 100px;
+    background-color: rgb(112, 3, 255);
+    padding: 20px
+}
+nav a:hover{
+    color: black;
+}
+nav ul{
+    display: flex;
+    float: right;
+    gap: 40px;
+    margin-right: 10px;
+    list-style-type: none;
+    margin-top: 40px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ .card{
+    height: 460px;
+    width: 1200px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ .four1{
+    background-image: url(WhatsApp\ Image\ 2024-06-16\ at\ 07.24.24_7e96485c.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border: solid rgb(255, 255, 128);
+    border-radius: 10px;
+ }
+.four .four2{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.four{
+    display: flex;
+}
+.five1{
+    background-image: url(find-and-book-your-bmw.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 290px;
+    margin-top: 50px;
+    margin-left: 250px;
+    border: solid rgb(255, 255, 128);
+    border-radius: 10px;
+}
+.five .five2{
+    margin-top: 200px;
+    margin-left: 250px;
+}
+.five{
+    display: flex;
+}
